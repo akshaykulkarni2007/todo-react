@@ -1,0 +1,13 @@
+.form-control:focus,
+.form-control:active {
+	border-color: #ced4da;
+	box-shadow: none;
+}
+
+.list-group-item {
+	text-transform: capitalize;
+}
+
+.badge-pill {
+	cursor: pointer;
+}
